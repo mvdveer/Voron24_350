@@ -1,4 +1,4 @@
-# Voron24_350
+# Voron24_350 V2.5213
 Voron 2.4 350mm build configuration files
 
 Build from a Formbot kit
